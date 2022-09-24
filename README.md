@@ -1,6 +1,4 @@
-# docker-ubuntuserver-systemd
-Ubuntu Server with systemd within Docker
-
+# Ubuntu Server with systemd within Docker
 
 This is a Docker image for run containers with Ubuntu Server 22.04 (including systemd support).
 It can be used as a virtual machine with less load.
