@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  ubuntuserver:
+    build: .
+    ports:
+      - "2222:22"
+
+volumes:
+  - 
