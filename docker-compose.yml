@@ -1,7 +1,7 @@
 version: "3"
 
 services:
-  image:
+  server:
     build: .
     ports:
       - "2222:22"
