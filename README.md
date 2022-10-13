@@ -11,13 +11,13 @@ git  clone  git@github.com:jamj2000/docker-systemd-ubuntu.git
 cd   docker-systemd-ubuntu
 ```
 
-## If you want **To run in background with docker-compose**
+## If you want To run in background with docker-compose
 
 ```sh
 docker-compose up -d
 ```
 
-## If you want **To run in background with docker**
+## If you want To run in background with docker
 
 ```sh
 docker run -d \
@@ -29,14 +29,14 @@ docker run -d \
   jamj2000/ubuntu:22.04
 ```
 
-## **To connect using SSH**
+## To connect using SSH
 
 ```ssh
 ssh usuario@localhost -p 2222
 ```
 
 
-## **If you want To run interactively with docker**
+## If you want To run interactively with docker
 
 ```sh
 docker run -it \
